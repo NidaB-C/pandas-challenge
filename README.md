@@ -1,3 +1,5 @@
 # pandas-challenge
 
-Analysis included in file with code
+Analysis and code in file PyCitySchools
+
+Please disregard checkpoints folder.
